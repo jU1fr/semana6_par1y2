@@ -1,0 +1,14 @@
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\bin\Debug\net8.0\desafio_3_part1.exe
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\bin\Debug\net8.0\desafio_3_part1.deps.json
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\bin\Debug\net8.0\desafio_3_part1.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\bin\Debug\net8.0\desafio_3_part1.dll
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\bin\Debug\net8.0\desafio_3_part1.pdb
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.dll
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\refint\desafio_3_part1.dll
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.pdb
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\desafio_3_part1.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\semana 6 parte1 y 2\desafios_semana_6_parte 1\desafios_semana_6_parte 1\desafio_3_part1\desafio_3_part1\obj\Debug\net8.0\ref\desafio_3_part1.dll
