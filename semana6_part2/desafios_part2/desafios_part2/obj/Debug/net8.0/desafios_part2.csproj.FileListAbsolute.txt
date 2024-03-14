@@ -1,0 +1,14 @@
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\bin\Debug\net8.0\desafios_part2.exe
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\bin\Debug\net8.0\desafios_part2.deps.json
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\bin\Debug\net8.0\desafios_part2.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\bin\Debug\net8.0\desafios_part2.dll
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\bin\Debug\net8.0\desafios_part2.pdb
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.dll
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\refint\desafios_part2.dll
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.pdb
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\desafios_part2.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\semana6_part2\desafios_part2\desafios_part2\obj\Debug\net8.0\ref\desafios_part2.dll
